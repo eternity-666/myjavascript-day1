@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+li {
+    list-style-type: none;
+}
+.box {
+    width: 250px;
+    margin: 100px auto;
+
+}
+
+.box li {
+    float: left;
+    width: 24px;
+    height: 24px;
+    background-color: pink;
+    margin: 15px;
+    background: url(./sprite.png) no-repeat;
+}
